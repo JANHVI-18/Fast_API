@@ -156,6 +156,6 @@ git push -u origin main
 
 2. Now, check your **Docker Hub** account. The images will be created in your account.
 
-🖼️ ![Example Image](https://github.com/JANHVI-18/Fast_API/blob/main/Screenshot%210.png)
-🖼️ ![Example Image](https://github.com/JANHVI-18/Fast_API/blob/main/Screenshot%211.png)
+🖼️ ![Example Image](https://github.com/JANHVI-18/Fast_API/blob/main/Screenshot%2010.png)
+🖼️ ![Example Image](https://github.com/JANHVI-18/Fast_API/blob/main/Screenshot%2011.png)
 
