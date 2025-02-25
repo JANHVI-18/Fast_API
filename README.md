@@ -150,12 +150,12 @@ git push -u origin main
 
 1. Go to **Repository → Actions Tab**. You will see that one workflow is running. Wait until it builds successfully.
 
-🖼️ ![Example Image](https://github.com/JANHVI-18/Fast_API/blob/main/Screenshot%2010.png)
+ ![Example Image](https://github.com/JANHVI-18/Fast_API/blob/main/Screenshot%2010.png)
 
 
 
 2. Now, check your **Docker Hub** account. The images will be created in your account.
 
 
-🖼️ ![Example Image](https://github.com/JANHVI-18/Fast_API/blob/main/Screenshot%2011.png)
+![Example Image](https://github.com/JANHVI-18/Fast_API/blob/main/Screenshot%2011.png)
 
