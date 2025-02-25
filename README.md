@@ -133,7 +133,7 @@ git remote add origin <your-github-repo-url>
 ```sh
 git add file-name
 ```
-🖼️ ![Example Image](https://github.com/Janhvi2334/Fast_API/blob/main/Screenshot6.png)
+🖼️ ![Example Image](https://github.com/JANHVI-18/Fast_API/blob/main/Screenshot%206.png)
 
 4. Commit the Changes:
 ```sh
@@ -144,17 +144,18 @@ git commit -m "Added files"
 ```sh
 git push -u origin main
 ```
-🖼️ ![Example Image](https://github.com/Janhvi2334/Fast_API/blob/main/Screenshot7.png)
+🖼️ ![Example Image](https://github.com/JANHVI-18/Fast_API/blob/main/Screenshot%207.png)
 
 ## ✅ Check If the Image Has Been Built
 
 1. Go to **Repository → Actions Tab**. You will see that one workflow is running. Wait until it builds successfully.
 
-🖼️ ![Example Image](https://github.com/Janhvi2334/Fast_API/blob/main/Screenshot8.png)
+🖼️ ![Example Image](https://github.com/JANHVI-18/Fast_API/blob/main/Screenshot%208.png)
 
-🖼️ ![Example Image](https://github.com/Janhvi2334/Fast_API/blob/main/Screenshot9.png)
+🖼️ ![Example Image](https://github.com/JANHVI-18/Fast_API/blob/main/Screenshot%209.png)
 
 2. Now, check your **Docker Hub** account. The images will be created in your account.
 
-🖼️ ![Example Image](https://github.com/Janhvi2334/Fast_API/blob/main/Screenshot10.png)
+🖼️ ![Example Image](https://github.com/JANHVI-18/Fast_API/blob/main/Screenshot%210.png)
+🖼️ ![Example Image](https://github.com/JANHVI-18/Fast_API/blob/main/Screenshot%211.png)
 
