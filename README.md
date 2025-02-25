@@ -108,12 +108,12 @@ docker login -u <your-docker-username>
 ```
 Then, enter the token when prompted.
 
-🖼️ ![Example Image](https://github.com/Janhvi2334/Fast_API/blob/main/Screenshot2.png)
+🖼️ ![Example Image](https://github.com/JANHVI-18/Fast_API/blob/main/Screenshot%202.png)
 
 #### 🔒 Add the Repository Secret:
 Go to **Settings → Secrets and Variables → Actions** and **Create New Repository Secrets** containing the Docker Hub username and password (which includes the generated Token).
 
-🖼️ ![Example Image](https://github.com/Janhvi2334/Fast_API/blob/main/Screenshot3.png)
+🖼️ ![Example Image](https://github.com/JANHVI-18/Fast_API/blob/main/Screenshot%203.png)
 
 ## 🚀 Steps to Push the `.github` Folder and Files to Your GitHub Repository
 
@@ -121,13 +121,13 @@ Go to **Settings → Secrets and Variables → Actions** and **Create New Reposi
 ```sh
 git init
 ```
-🖼️ ![Example Image](https://github.com/Janhvi2334/Fast_API/blob/main/Screenshot4.png)
+🖼️ ![Example Image](https://github.com/JANHVI-18/Fast_API/blob/main/Screenshot%204.png)
 
 2. Add Your Remote Repository:
 ```sh
 git remote add origin <your-github-repo-url>
 ```
-🖼️ ![Example Image](https://github.com/Janhvi2334/Fast_API/blob/main/Screenshot5.png)
+🖼️ ![Example Image](https://github.com/JANHVI-18/Fast_API/blob/main/Screenshot%205.png)
 
 3. Add Files for the Commit:
 ```sh
